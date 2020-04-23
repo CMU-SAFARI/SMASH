@@ -1,0 +1,177 @@
+Compression ratio 0 of A 2 
+Compression ratio 0 of B 2 
+Compression ratio 1 of A 2 
+Compression ratio 1 of B 2 
+Compression ratio 2 of A 2 
+Compression ratio 2 of B 2 
+Input path ../bitmap/input_test 
+Read matrix ../bitmap/input_test
+Rows = 4 Non-zero = 7 
+Finished reading csr ../bitmap/input_test
+Read matrix ../bitmap/input_test
+Rows = 4 Non-zero = 7 
+Finished reading csr ../bitmap/input_test
+Initialized Compression Ratios 
+Initialized bitmap0 
+Row 0 has 2 elements 
+Element in row 0 and column 2 and block 1 
+Mask = 0x0000000000000002
+Index = 0
+Element in row 0 and column 3 and block 1 
+Mask = 0x0000000000000002
+Index = 0
+Row 1 has 3 elements 
+Element in row 1 and column 1 and block 2 
+Mask = 0x0000000000000004
+Index = 0
+Element in row 1 and column 2 and block 3 
+Mask = 0x0000000000000008
+Index = 0
+Element in row 1 and column 3 and block 3 
+Mask = 0x0000000000000008
+Index = 0
+Row 2 has 1 elements 
+Element in row 2 and column 3 and block 5 
+Mask = 0x0000000000000020
+Index = 0
+Row 3 has 1 elements 
+Element in row 3 and column 3 and block 7 
+Mask = 0x0000000000000080
+Index = 0
+
+Constructed bitmap0 and nza 
+0	1	1	1	0	1	0	1	
+Set bit 1 of bitmap0 
+Mask = 0x0000000000000002
+Index = 0
+Mask = 0x0000000000000001
+Index = 0
+Set bit 2 of bitmap0 
+Mask = 0x0000000000000004
+Index = 0
+Mask = 0x0000000000000002
+Index = 0
+Mask = 0x0000000000000008
+Index = 0
+Mask = 0x0000000000000002
+Index = 0
+Set bit 5 of bitmap0 
+Mask = 0x0000000000000020
+Index = 0
+Mask = 0x0000000000000004
+Index = 0
+Set bit 7 of bitmap0 
+Mask = 0x0000000000000080
+Index = 0
+Mask = 0x0000000000000008
+Index = 0
+Constructed Bitmap1 
+1	1	1	1	
+Mask = 0x0000000000000001
+Index = 0
+Mask = 0x0000000000000001
+Index = 0
+Mask = 0x0000000000000002
+Index = 0
+Mask = 0x0000000000000001
+Index = 0
+Mask = 0x0000000000000004
+Index = 0
+Mask = 0x0000000000000002
+Index = 0
+Mask = 0x0000000000000008
+Index = 0
+Mask = 0x0000000000000002
+Index = 0
+Constructed Bitmap2 
+1	1	
+Initialized Compression Ratios 
+Initialized bitmap0 
+Row 0 has 2 elements 
+Element in row 0 and column 2 and block 1 
+Mask = 0x0000000000000002
+Index = 0
+Element in row 0 and column 3 and block 1 
+Mask = 0x0000000000000002
+Index = 0
+Row 1 has 3 elements 
+Element in row 1 and column 1 and block 2 
+Mask = 0x0000000000000004
+Index = 0
+Element in row 1 and column 2 and block 3 
+Mask = 0x0000000000000008
+Index = 0
+Element in row 1 and column 3 and block 3 
+Mask = 0x0000000000000008
+Index = 0
+Row 2 has 1 elements 
+Element in row 2 and column 3 and block 5 
+Mask = 0x0000000000000020
+Index = 0
+Row 3 has 1 elements 
+Element in row 3 and column 3 and block 7 
+Mask = 0x0000000000000080
+Index = 0
+
+Constructed bitmap0 and nza 
+0	1	1	1	0	1	0	1	
+Set bit 1 of bitmap0 
+Mask = 0x0000000000000002
+Index = 0
+Mask = 0x0000000000000001
+Index = 0
+Set bit 2 of bitmap0 
+Mask = 0x0000000000000004
+Index = 0
+Mask = 0x0000000000000002
+Index = 0
+Mask = 0x0000000000000008
+Index = 0
+Mask = 0x0000000000000002
+Index = 0
+Set bit 5 of bitmap0 
+Mask = 0x0000000000000020
+Index = 0
+Mask = 0x0000000000000004
+Index = 0
+Set bit 7 of bitmap0 
+Mask = 0x0000000000000080
+Index = 0
+Mask = 0x0000000000000008
+Index = 0
+Constructed Bitmap1 
+1	1	1	1	
+Mask = 0x0000000000000001
+Index = 0
+Mask = 0x0000000000000001
+Index = 0
+Mask = 0x0000000000000002
+Index = 0
+Mask = 0x0000000000000001
+Index = 0
+Mask = 0x0000000000000004
+Index = 0
+Mask = 0x0000000000000002
+Index = 0
+Mask = 0x0000000000000008
+Index = 0
+Mask = 0x0000000000000002
+Index = 0
+Constructed Bitmap2 
+1	1	
+1	1	
+1	1	1	1	
+0	1	1	1	0	1	0	1	
+1	1	
+1	1	1	1	
+0	1	1	1	0	1	0	1	
+NZA blocks A 5
+NZA blocks B 5
+Move Bitmap B
+Found set bit at Bitmap2[0] = 0,  current_index2 = 0 
+Counter2= 0
+Found set bit at Bitmap1[0] = 0 
+Counter1= 0
+Register= 0x00000000000000ae
+Found set bit at Bitmap0[0] = 1 current_block0 = 0 
+Counter0= 1
