@@ -10,10 +10,14 @@ Proceedings of the 52nd International Symposium on Microarchitecture (MICRO), Co
 Please cite the above work if you make use of the tools provided in this repository.
 
 The presentations of the paper are available on YouTube:
->[Lightning Talk Video](https://youtu.be/VN0PQ5zgLGg)\
+>[Lightning Talk Video](https://youtu.be/VN0PQ5zgLGg)
+
 >[Full Talk Video](https://youtu.be/LWYVQ3o_SdU)
+
 >[Slides(pdf)](https://people.inf.ethz.ch/omutlu/pub/SMASH-sparse-matrix-software-hardware-acceleration_micro19-talk.pdf)
+
 >[Slides(pptx)](https://people.inf.ethz.ch/omutlu/pub/SMASH-sparse-matrix-software-hardware-acceleration_micro19-talk.pptx)
+
 
 
 
