@@ -9,11 +9,12 @@ the MICRO'19 paper:
 
 Proceedings of the 52nd International Symposium on Microarchitecture (MICRO), Columbus, OH, USA, October 2019. 
 
+Please cite the above work if you make use of the tools provided in this repository.
+
 The presentations of the paper are available on YouTube:
 >[Lightning Talk Video](https://youtu.be/VN0PQ5zgLGg)\
 >[Full Talk Video](https://youtu.be/LWYVQ3o_SdU)
 
-Please cite the above work if you make use of the tools provided in this repository.
 
 
 ## Using the Hierarchical Bitmap Format
