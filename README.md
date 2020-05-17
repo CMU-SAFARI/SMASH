@@ -4,9 +4,7 @@ Source code of the sparse matrix kernels and utilities used to evaluate the sche
 the MICRO'19 paper:
 
 >Konstantinos Kanellopoulos, Nandita Vijaykumar, Christina Giannoula, Roknoddin Azizi, Skanda Koppula, Nika Mansouri Ghiasi, Taha Shahroodi, Juan Gomez-Luna, and Onur Mutlu,
-
 [**SMASH: Co-designing Software Compression and Hardware-Accelerated Indexing for Efficient Sparse Matrix Operations**](https://people.inf.ethz.ch/omutlu/pub/SMASH-sparse-matrix-software-hardware-acceleration_micro19.pdf)
-
 Proceedings of the 52nd International Symposium on Microarchitecture (MICRO), Columbus, OH, USA, October 2019. 
 
 Please cite the above work if you make use of the tools provided in this repository.
@@ -14,6 +12,8 @@ Please cite the above work if you make use of the tools provided in this reposit
 The presentations of the paper are available on YouTube:
 >[Lightning Talk Video](https://youtu.be/VN0PQ5zgLGg)\
 >[Full Talk Video](https://youtu.be/LWYVQ3o_SdU)
+>[Slides(pdf)](https://people.inf.ethz.ch/omutlu/pub/SMASH-sparse-matrix-software-hardware-acceleration_micro19-talk.pdf)
+>[Slides(pptx)](https://people.inf.ethz.ch/omutlu/pub/SMASH-sparse-matrix-software-hardware-acceleration_micro19-talk.pptx)
 
 
 
